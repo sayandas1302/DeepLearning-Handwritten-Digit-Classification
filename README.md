@@ -1,2 +1,2 @@
 # DeepLearning-Handwritten-Number-Classification
-Here, we will identify a number from its handwritten picture.
+Here we are using the simple neural network algorithm to classify the hand written digits
